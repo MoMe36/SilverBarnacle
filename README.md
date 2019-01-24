@@ -31,6 +31,8 @@ The information pipeline is as such:
 
 I've found the method to allow for easy extention and it handles rather well various character states. 
 
+![Image of Yaktocat](./process.png)
+
 ## The hitbox magic 
 
 The wiring necessary for hitbox wasn't totally straightforward, so here's an explanation. 
